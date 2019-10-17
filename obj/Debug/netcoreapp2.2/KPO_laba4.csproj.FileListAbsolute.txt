@@ -1,0 +1,11 @@
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba4\bin\Debug\netcoreapp2.2\KPO_laba4.deps.json
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba4\bin\Debug\netcoreapp2.2\KPO_laba4.runtimeconfig.json
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba4\bin\Debug\netcoreapp2.2\KPO_laba4.runtimeconfig.dev.json
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba4\bin\Debug\netcoreapp2.2\KPO_laba4.dll
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba4\bin\Debug\netcoreapp2.2\KPO_laba4.pdb
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba4\obj\Debug\netcoreapp2.2\KPO_laba4.csprojAssemblyReference.cache
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba4\obj\Debug\netcoreapp2.2\KPO_laba4.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba4\obj\Debug\netcoreapp2.2\KPO_laba4.AssemblyInfoInputs.cache
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba4\obj\Debug\netcoreapp2.2\KPO_laba4.AssemblyInfo.cs
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba4\obj\Debug\netcoreapp2.2\KPO_laba4.dll
+C:\Users\Сергей\Documents\Учеба\ИрГУПС\Курганская\Конструирование ПО\KPO_laba4\obj\Debug\netcoreapp2.2\KPO_laba4.pdb

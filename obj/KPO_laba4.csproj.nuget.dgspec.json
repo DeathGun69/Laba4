@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Сергей\\Documents\\Учеба\\ИрГУПС\\Курганская\\Конструирование ПО\\KPO_laba4\\KPO_laba4.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Сергей\\Documents\\Учеба\\ИрГУПС\\Курганская\\Конструирование ПО\\KPO_laba4\\KPO_laba4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Сергей\\Documents\\Учеба\\ИрГУПС\\Курганская\\Конструирование ПО\\KPO_laba4\\KPO_laba4.csproj",
+        "projectName": "KPO_laba4",
+        "projectPath": "C:\\Users\\Сергей\\Documents\\Учеба\\ИрГУПС\\Курганская\\Конструирование ПО\\KPO_laba4\\KPO_laba4.csproj",
+        "packagesPath": "C:\\Users\\Сергей\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Сергей\\Documents\\Учеба\\ИрГУПС\\Курганская\\Конструирование ПО\\KPO_laba4\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Сергей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
